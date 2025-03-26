@@ -6,10 +6,10 @@
 		{"id":"33f0324c7054f310","type":"text","text":"MEIO","x":5,"y":-160,"width":250,"height":60},
 		{"id":"3cdd9850e86fd0ab","type":"text","text":"O RESULTADO DO PROCESSAMENTO","x":580,"y":-60,"width":560,"height":320,"color":"4"},
 		{"id":"b6be3ee52f6dd5fc","type":"text","text":"FIM","x":735,"y":-160,"width":250,"height":60},
-		{"id":"ab79ea37ac835a31","type":"text","text":"DADOS DE ENTRADA\n\n\n","x":-700,"y":680,"width":440,"height":360,"color":"5"},
-		{"id":"face05cf92afbe1f","type":"text","text":"PROCESSAMENTO DESSES DADOS","x":-100,"y":680,"width":500,"height":360,"color":"3"},
+		{"id":"ab79ea37ac835a31","type":"text","text":"DADOS DE ENTRADA\n\n\nSeus dados pessoais: nome, CPF, data de nascimento RG, endereço\n\nSeus dados Familiares: Nome da mãe, nome do pai\n\nSeus dados financeiros: patrimônio, renda, origem de cada renda","x":-700,"y":680,"width":440,"height":360,"color":"5"},
+		{"id":"face05cf92afbe1f","type":"text","text":"PROCESSAMENTO DESSES DADOS\n\nEsses dados são verdadeiros ?\n\nEssa pessoa tem renda e/ou patrimônio suficiente para abrir conta nesse banco ?","x":-100,"y":680,"width":500,"height":360,"color":"3"},
 		{"id":"474a1765ea807c52","type":"text","text":"O RESULTADO DO PROCESSAMENTO","x":580,"y":700,"width":560,"height":320,"color":"4"},
-		{"id":"b6e5e14dc743c794","x":25,"y":580,"width":250,"height":60,"color":"6","type":"text","text":"EXEMPLO: CADAS"}
+		{"id":"b6e5e14dc743c794","x":-47,"y":580,"width":395,"height":60,"color":"6","type":"text","text":"EXEMPLO: FAZER UMA CONTA EM UM BANCO"}
 	],
 	"edges":[
 		{"id":"197c413f05984283","fromNode":"88b0463effb463b6","fromSide":"right","toNode":"f68038442b064203","toSide":"left"},
