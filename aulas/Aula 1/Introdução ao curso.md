@@ -66,6 +66,8 @@ O Trabalho de um programador é automatizar processos!
 
 - O fim do processo é o resultado desse processamento
 
+[[Processos.canvas|Processos]]
+
 ---
 ###### porque automatizar processos ?
 

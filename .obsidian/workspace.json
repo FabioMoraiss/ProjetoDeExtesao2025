@@ -11,14 +11,17 @@
             "id": "ae2a332bac6b75fa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "aulas/Aula 1/Introdução ao curso.md",
-                "mode": "source",
-                "source": false
+                "file": "aulas/Aula 1/Processos.canvas",
+                "viewState": {
+                  "x": 210,
+                  "y": 60,
+                  "zoom": -0.2180506622733678
+                }
               },
-              "icon": "lucide-file",
-              "title": "Introdução ao curso"
+              "icon": "lucide-layout-dashboard",
+              "title": "Processos"
             }
           }
         ]
@@ -94,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "aulas/Aula 1/Introdução ao curso.md",
+                "file": "aulas/Aula 1/Processos.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +107,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Introdução ao curso"
+              "title": "Backlinks for Processos"
             }
           },
           {
@@ -113,12 +116,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "aulas/Aula 1/Introdução ao curso.md",
+                "file": "aulas/Aula 1/Processos.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Introdução ao curso"
+              "title": "Outgoing links from Processos"
             }
           },
           {
@@ -142,13 +145,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "aulas/Aula 1/Introdução ao curso.md",
+                "file": "aulas/Aula 1/Processos.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Introdução ao curso"
+              "title": "Outline of Processos"
             }
           }
         ]
@@ -174,9 +177,9 @@
     "aulas/Aula 1/Processo de marcar consulta medica.canvas",
     "aulas/Aula 1/Introdução ao curso.md",
     "aulas/Aula 1/Processos.canvas",
-    "README.md",
     "Imagens/Pasted image 20250326003501.png",
     "Imagens/Pasted image 20250326001128.png",
+    "README.md",
     "Imagens",
     "Indice.md",
     "introdução.md",
