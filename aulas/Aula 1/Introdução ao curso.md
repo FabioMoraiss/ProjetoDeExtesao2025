@@ -56,6 +56,7 @@
 
 ---
 O Trabalho de um programador é automatizar processos!
+[[Processo de marcar consulta medica.canvas|Processo de marcar consulta medica]]
 
 - Processos tem inicio, meio e fim
 
@@ -64,3 +65,8 @@ O Trabalho de um programador é automatizar processos!
 - O meio do processo é o processamento de dados
 
 - O fim do processo é o resultado desse processamento
+
+---
+Processor feitos por humanos tem maior taxa de falha
+
+Humanos podem corromper processos
