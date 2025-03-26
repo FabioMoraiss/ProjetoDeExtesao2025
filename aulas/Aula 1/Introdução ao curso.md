@@ -53,7 +53,7 @@
 
 ![[Pasted image 20250326003501.png]]
 
-[[Processo de marcar consulta medica.canvas|Processo de marcar consulta medica]]
+~={red}[[Processo de marcar consulta medica.canvas|Exemplo de processo]]=
 
 ---
 O Trabalho de um programador é automatizar processos!
@@ -71,10 +71,10 @@ O Trabalho de um programador é automatizar processos!
 ---
 ###### porque automatizar processos ?
 
-- Processos feitos por humanos tem maior taxa de falha
+- Processos feitos por humanos tem maior taxa de ~={red}falha=~
 	- humanos ficam cansados, estressados, situações externas podem afetar sua produtividade
 
-- Humanos podem corromper processos
+- Humanos podem ~={red}corromper=~ processos
 	- "Vou te passar na frente da fila, pois você é meu amigo!"
 
-- Humanos podem atender somente uma quantidade de pessoas por hora
+- Humanos podem atender somente uma quantidade ~={red}limitada=~ de pessoas por hora
