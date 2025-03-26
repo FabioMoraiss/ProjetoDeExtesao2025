@@ -73,8 +73,6 @@ O Trabalho de um programador é automatizar processos!
 	- humanos ficam cansados, estressados, situações externas podem afetar sua produtividade
 
 - Humanos podem corromper processos
-	- "Vou te passar na frente da fila pois você é meu amigo!"
+	- "Vou te passar na frente da fila, pois você é meu amigo!"
 
 - Humanos podem atender somente uma quantidade de pessoas por hora
-- Mais um texto aqui amigo
-- mais um texto 2
