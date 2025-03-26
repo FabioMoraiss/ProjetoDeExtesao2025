@@ -51,12 +51,12 @@
 ---
 ###### Qual o trabalho de um programdor ?
 
-
 ![[Pasted image 20250326003501.png]]
+
+[[Processo de marcar consulta medica.canvas|Processo de marcar consulta medica]]
 
 ---
 O Trabalho de um programador é automatizar processos!
-[[Processo de marcar consulta medica.canvas|Processo de marcar consulta medica]]
 
 - Processos tem inicio, meio e fim
 
@@ -67,6 +67,9 @@ O Trabalho de um programador é automatizar processos!
 - O fim do processo é o resultado desse processamento
 
 ---
-Processor feitos por humanos tem maior taxa de falha
+###### porque automatizar processos ?
 
-Humanos podem corromper processos
+- Processor feitos por humanos tem maior taxa de falha
+%% humanos ficam cansados, estressados, situações externas podem afetar sua produtividade %%
+
+- Humanos podem corromper processos
