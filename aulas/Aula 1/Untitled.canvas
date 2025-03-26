@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"26b18b4f08a624b2","x":-1000,"y":-325,"width":335,"height":71,"color":"4","type":"text","text":"Marcar uma consulta médicca em uma clinica particular"},
+		{"id":"5f8931bf87c4d783","x":-500,"y":-319,"width":250,"height":60,"color":"3","type":"text","text":"Tem cadastro ?"},
+		{"id":"329adee9e931a494","x":-250,"y":-420,"width":95,"height":60,"color":"5","type":"text","text":"sim"},
+		{"id":"a24f8a98bddc99a6","x":-250,"y":-220,"width":92,"height":60,"color":"2","type":"text","text":"não"},
+		{"id":"efdee67515551918","x":-100,"y":-220,"width":250,"height":60,"type":"text","text":"iniciar o prcesso de cadastro"},
+		{"id":"d975e7db28c37bf3","x":0,"y":-120,"width":120,"height":60,"type":"text","text":"Nome"},
+		{"id":"c1419b1f781864a7","x":0,"y":-40,"width":96,"height":60,"type":"text","text":"CPF"},
+		{"id":"243466ba8d921956","x":0,"y":40,"width":139,"height":60,"type":"text","text":"Endereço"}
+	],
+	"edges":[
+		{"id":"3f5d77254137fdb1","fromNode":"26b18b4f08a624b2","fromSide":"right","toNode":"5f8931bf87c4d783","toSide":"left"},
+		{"id":"38d5606b304cd662","fromNode":"5f8931bf87c4d783","fromSide":"top","toNode":"329adee9e931a494","toSide":"left"},
+		{"id":"5d331af38d95c0b7","fromNode":"5f8931bf87c4d783","fromSide":"bottom","toNode":"a24f8a98bddc99a6","toSide":"left"},
+		{"id":"d234c44e22b41fc9","fromNode":"a24f8a98bddc99a6","fromSide":"right","toNode":"efdee67515551918","toSide":"left"}
+	]
+}

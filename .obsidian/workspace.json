@@ -15,8 +15,8 @@
               "state": {
                 "file": "aulas/Aula 1/Untitled.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": 0,
+                  "x": 399,
+                  "y": -56,
                   "zoom": 0
                 }
               },
@@ -172,7 +172,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1b9cfbd433cb113d",
+  "active": "ae2a332bac6b75fa",
   "lastOpenFiles": [
     "README.md",
     "aulas/Aula 1/Untitled.canvas",
