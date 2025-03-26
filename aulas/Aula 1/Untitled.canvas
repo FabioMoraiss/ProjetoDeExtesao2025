@@ -19,7 +19,12 @@
 		{"id":"9fdc8e88b9278b80","type":"text","text":"toma alguma medicação controlada ?","x":1007,"y":212,"width":245,"height":60},
 		{"id":"54a7e53930c8dd4b","x":1007,"y":280,"width":250,"height":60,"type":"text","text":"tipo sangueneo"},
 		{"id":"18e78016aace56ac","type":"text","text":"tem alguma doença cronica ?","x":1007,"y":140,"width":250,"height":60},
-		{"id":"e91233025738c9c9","x":-167,"y":-535,"width":250,"height":60,"type":"text","text":"verificar qual especialista"}
+		{"id":"e91233025738c9c9","x":-100,"y":-720,"width":250,"height":60,"type":"text","text":"selecionar a especialidade desejada"},
+		{"id":"31488d2cef2b98e0","x":220,"y":-720,"width":250,"height":60,"type":"text","text":"selecionar a data desejada"},
+		{"id":"a72aca04c8f37b77","x":540,"y":-752,"width":250,"height":124,"type":"text","text":"Mostrar quais médicos daquela especialidade estão disponiveis naquela data"},
+		{"id":"106463db5eb9fe07","x":882,"y":-736,"width":250,"height":92,"type":"text","text":"escolher um horario disponivel com um médico"},
+		{"id":"071df3ca2bfa569b","x":1200,"y":-720,"width":250,"height":60,"color":"4","type":"text","text":"Consulta marcada!"},
+		{"id":"a6b616de0fd898e8","x":1464,"y":-585,"width":250,"height":60,"type":"text","text":"iniciar processo de"}
 	],
 	"edges":[
 		{"id":"3f5d77254137fdb1","fromNode":"26b18b4f08a624b2","fromSide":"right","toNode":"5f8931bf87c4d783","toSide":"left"},
@@ -40,6 +45,11 @@
 		{"id":"7babedeb737b6800","fromNode":"dff257f236c4bc8f","fromSide":"bottom","toNode":"18e78016aace56ac","toSide":"left"},
 		{"id":"2f9a6202ccde8571","fromNode":"dff257f236c4bc8f","fromSide":"bottom","toNode":"9fdc8e88b9278b80","toSide":"left"},
 		{"id":"a155a5b0ede85bfb","fromNode":"dff257f236c4bc8f","fromSide":"top","toNode":"5f8931bf87c4d783","toSide":"right","color":"1"},
-		{"id":"97a1193aefd04206","fromNode":"dff257f236c4bc8f","fromSide":"bottom","toNode":"54a7e53930c8dd4b","toSide":"left"}
+		{"id":"97a1193aefd04206","fromNode":"dff257f236c4bc8f","fromSide":"bottom","toNode":"54a7e53930c8dd4b","toSide":"left"},
+		{"id":"7c875ef1d4ded32b","fromNode":"329adee9e931a494","fromSide":"top","toNode":"e91233025738c9c9","toSide":"left"},
+		{"id":"8a9244268828faed","fromNode":"e91233025738c9c9","fromSide":"right","toNode":"31488d2cef2b98e0","toSide":"left"},
+		{"id":"96aa013976db4fcf","fromNode":"31488d2cef2b98e0","fromSide":"right","toNode":"a72aca04c8f37b77","toSide":"left"},
+		{"id":"4e7080d54f8da8ca","fromNode":"a72aca04c8f37b77","fromSide":"right","toNode":"106463db5eb9fe07","toSide":"left"},
+		{"id":"427ee6b759c0665c","fromNode":"106463db5eb9fe07","fromSide":"right","toNode":"071df3ca2bfa569b","toSide":"left"}
 	]
 }
