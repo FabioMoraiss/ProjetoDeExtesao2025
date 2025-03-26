@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Untitled"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks for Untitled"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Outgoing links from Untitled"
             }
           },
           {
@@ -142,13 +142,23 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of Untitled"
+            }
+          },
+          {
+            "id": "ce3f6ab9832ea844",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ]
@@ -170,14 +180,15 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "1b9cfbd433cb113d",
+  "active": "ae2a332bac6b75fa",
   "lastOpenFiles": [
+    "README.md",
+    "Untitled.md",
     "aulas/Aula 1/Introdução ao curso.md",
     "aulas/Aula 1/Processos.canvas",
     "aulas/Aula 1/Processo de marcar consulta medica.canvas",
     "Imagens/Pasted image 20250326003501.png",
     "Imagens/Pasted image 20250326001128.png",
-    "README.md",
     "Imagens",
     "Indice.md",
     "introdução.md",
