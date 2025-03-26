@@ -11,17 +11,14 @@
             "id": "ae2a332bac6b75fa",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "aulas/Aula 1/Untitled.canvas",
-                "viewState": {
-                  "x": 151.72478714440217,
-                  "y": -136.7203045549112,
-                  "zoom": -0.9301369401007737
-                }
+                "file": "aulas/Aula 1/Introdução ao curso.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "Introdução ao curso"
             }
           }
         ]
@@ -97,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "aulas/Aula 1/Untitled.canvas",
+                "file": "aulas/Aula 1/Introdução ao curso.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled"
+              "title": "Backlinks for Introdução ao curso"
             }
           },
           {
@@ -116,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "aulas/Aula 1/Untitled.canvas",
+                "file": "aulas/Aula 1/Introdução ao curso.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Untitled"
+              "title": "Outgoing links from Introdução ao curso"
             }
           },
           {
@@ -145,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "aulas/Aula 1/Untitled.canvas",
+                "file": "aulas/Aula 1/Introdução ao curso.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of Introdução ao curso"
             }
           }
         ]
@@ -174,8 +171,8 @@
   },
   "active": "ae2a332bac6b75fa",
   "lastOpenFiles": [
+    "aulas/Aula 1/Processo de marcar consulta medica.canvas",
     "aulas/Aula 1/Introdução ao curso.md",
-    "aulas/Aula 1/Untitled.canvas",
     "README.md",
     "Imagens/Pasted image 20250326003501.png",
     "Imagens/Pasted image 20250326001128.png",
