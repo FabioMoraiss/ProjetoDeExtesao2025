@@ -7,14 +7,20 @@
 		{"id":"3cdd9850e86fd0ab","type":"text","text":"O RESULTADO DO PROCESSAMENTO","x":580,"y":-60,"width":560,"height":320,"color":"4"},
 		{"id":"b6be3ee52f6dd5fc","type":"text","text":"FIM","x":735,"y":-160,"width":250,"height":60},
 		{"id":"ab79ea37ac835a31","type":"text","text":"DADOS DE ENTRADA\n\n\nSeus dados pessoais: nome, CPF, data de nascimento RG, endereço\n\nSeus dados Familiares: Nome da mãe, nome do pai\n\nSeus dados financeiros: patrimônio, renda, origem de cada renda","x":-700,"y":680,"width":440,"height":360,"color":"5"},
-		{"id":"face05cf92afbe1f","type":"text","text":"PROCESSAMENTO DESSES DADOS\n\nEsses dados são verdadeiros ?\n\nEssa pessoa tem renda e/ou patrimônio suficiente para abrir conta nesse banco ?","x":-100,"y":680,"width":500,"height":360,"color":"3"},
-		{"id":"474a1765ea807c52","type":"text","text":"O RESULTADO DO PROCESSAMENTO","x":580,"y":700,"width":560,"height":320,"color":"4"},
-		{"id":"b6e5e14dc743c794","x":-47,"y":580,"width":395,"height":60,"color":"6","type":"text","text":"EXEMPLO: FAZER UMA CONTA EM UM BANCO"}
+		{"id":"face05cf92afbe1f","type":"text","text":"PROCESSAMENTO DESSES DADOS\n\nEsses dados são verdadeiros ?\n\nTem alguém se passando por essa pessoa ?\n\nEssa pessoa tem renda e/ou patrimônio suficiente para abrir conta nesse banco ?","x":-100,"y":680,"width":500,"height":360,"color":"3"},
+		{"id":"474a1765ea807c52","type":"text","text":"O RESULTADO DO PROCESSAMENTO\n\nConta criada com sucesso!\n\nOU\n\nConta negada por um dos seguintes motivos:\n- dados falsos\n- os dados até eram verdadeiros, mas era alguém se passado por essa pessoa\n- renda insuficiente para abri conta nesse banco","x":580,"y":700,"width":560,"height":320,"color":"4"},
+		{"id":"b6e5e14dc743c794","x":-47,"y":580,"width":395,"height":60,"color":"6","type":"text","text":"EXEMPLO: FAZER UMA CONTA EM UM BANCO"},
+		{"id":"7dd6d387c7f69801","type":"text","text":"DADOS DE ENTRADA\n\n\nSeus dados pessoais: nome, CPF, data de nascimento RG, endereço\n\nSeus dados Familiares: Nome da mãe, nome do pai\n\nSeus dados financeiros: patrimônio, renda, origem de cada renda","x":-668,"y":1240,"width":440,"height":360,"color":"5"},
+		{"id":"bf65a65c94b21992","type":"text","text":"PROCESSAMENTO DESSES DADOS\n\nEsses dados são verdadeiros ?\n\nTem alguém se passando por essa pessoa ?\n\nEssa pessoa tem renda e/ou patrimônio suficiente para abrir conta nesse banco ?","x":-68,"y":1240,"width":500,"height":360,"color":"3"},
+		{"id":"3063aca0be4d70ab","type":"text","text":"O RESULTADO DO PROCESSAMENTO\n\nConta criada com sucesso!\n\nOU\n\nConta negada por um dos seguintes motivos:\n- dados falsos\n- os dados até eram verdadeiros, mas era alguém se passado por essa pessoa\n- renda insuficiente para abri conta nesse banco","x":612,"y":1260,"width":560,"height":320,"color":"4"},
+		{"id":"6cb95134881ead34","type":"text","text":"EXEMPLO: FAZER UMA CONTA EM UM BANCO","x":-15,"y":1140,"width":395,"height":60,"color":"6"}
 	],
 	"edges":[
 		{"id":"197c413f05984283","fromNode":"88b0463effb463b6","fromSide":"right","toNode":"f68038442b064203","toSide":"left"},
 		{"id":"8a316ff4eb0aabaf","fromNode":"f68038442b064203","fromSide":"right","toNode":"3cdd9850e86fd0ab","toSide":"left"},
 		{"id":"81c29d446996df05","fromNode":"ab79ea37ac835a31","fromSide":"right","toNode":"face05cf92afbe1f","toSide":"left"},
-		{"id":"2715ec971a3cfabe","fromNode":"face05cf92afbe1f","fromSide":"right","toNode":"474a1765ea807c52","toSide":"left"}
+		{"id":"2715ec971a3cfabe","fromNode":"face05cf92afbe1f","fromSide":"right","toNode":"474a1765ea807c52","toSide":"left"},
+		{"id":"6ab5d6e080a46059","fromNode":"7dd6d387c7f69801","fromSide":"right","toNode":"bf65a65c94b21992","toSide":"left"},
+		{"id":"5ccd3d51e33f6218","fromNode":"bf65a65c94b21992","fromSide":"right","toNode":"3063aca0be4d70ab","toSide":"left"}
 	]
 }
