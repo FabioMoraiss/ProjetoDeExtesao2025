@@ -70,6 +70,11 @@ O Trabalho de um programador é automatizar processos!
 ###### porque automatizar processos ?
 
 - Processor feitos por humanos tem maior taxa de falha
-%% humanos ficam cansados, estressados, situações externas podem afetar sua produtividade %%
+	- humanos ficam cansados, estressados, situações externas podem afetar sua produtividade
 
 - Humanos podem corromper processos
+	- "Vou te passar na frente da fila pois você é meu amigo!"
+
+- Humanos podem atender somente uma quantidade de pessoas por hora
+- Mais um texto aqui amigo
+- mais um texto 2
