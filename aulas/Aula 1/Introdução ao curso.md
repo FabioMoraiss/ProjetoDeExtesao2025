@@ -49,7 +49,7 @@
 - DETERMINAÇÃO 💪
 
 ---
-###### Qual o trabalho de um programdor ?
+###### Qual o trabalho de um programador ?
 
 ![[Pasted image 20250326003501.png]]
 
@@ -71,7 +71,7 @@ O Trabalho de um programador é automatizar processos!
 ---
 ###### porque automatizar processos ?
 
-- Processor feitos por humanos tem maior taxa de falha
+- Processos feitos por humanos tem maior taxa de falha
 	- humanos ficam cansados, estressados, situações externas podem afetar sua produtividade
 
 - Humanos podem corromper processos
