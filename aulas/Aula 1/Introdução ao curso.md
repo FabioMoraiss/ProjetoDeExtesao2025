@@ -57,10 +57,10 @@
 ---
 O Trabalho de um programador é automatizar processos!
 
-Processos tem inicio, meio e fim
+- Processos tem inicio, meio e fim
 
-O inicio de um processo são os dados de entrada
+- O inicio de um processo são os dados de entrada
 
-O meio do processo é o processamento de dados
+- O meio do processo é o processamento de dados
 
-O fim do processo é o resultado
+- O fim do processo é o resultado desse processamento
