@@ -11,14 +11,17 @@
             "id": "ae2a332bac6b75fa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "aulas/Aula 1/Introdução ao curso.md",
-                "mode": "source",
-                "source": false
+                "file": "aulas/Aula 1/Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "Introdução ao curso"
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           }
         ]
@@ -94,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "aulas/Aula 1/Introdução ao curso.md",
+                "file": "aulas/Aula 1/Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +107,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Introdução ao curso"
+              "title": "Backlinks for Untitled"
             }
           },
           {
@@ -113,12 +116,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "aulas/Aula 1/Introdução ao curso.md",
+                "file": "aulas/Aula 1/Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Introdução ao curso"
+              "title": "Outgoing links from Untitled"
             }
           },
           {
@@ -142,13 +145,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "aulas/Aula 1/Introdução ao curso.md",
+                "file": "aulas/Aula 1/Untitled.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Introdução ao curso"
+              "title": "Outline of Untitled"
             }
           }
         ]
@@ -169,15 +172,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ae2a332bac6b75fa",
+  "active": "1b9cfbd433cb113d",
   "lastOpenFiles": [
-    "Pasted image 20250326003501.png",
-    "Pasted image 20250326001128.png",
+    "README.md",
+    "aulas/Aula 1/Untitled.canvas",
+    "aulas/Aula 1/Introdução ao curso.md",
+    "Imagens/Pasted image 20250326003501.png",
+    "Imagens/Pasted image 20250326001128.png",
+    "Imagens",
     "Indice.md",
     "introdução.md",
-    "aulas/Aula 1/Introdução ao curso.md",
     "aulas",
-    "README.md",
     "aulas/Aula 1"
   ]
 }
