@@ -4,16 +4,22 @@
 		{"id":"5f8931bf87c4d783","type":"text","text":"Tem cadastro ?","x":-500,"y":-319,"width":250,"height":60,"color":"3"},
 		{"id":"329adee9e931a494","type":"text","text":"sim","x":-250,"y":-420,"width":95,"height":60,"color":"5"},
 		{"id":"a24f8a98bddc99a6","type":"text","text":"não","x":-250,"y":-220,"width":92,"height":60,"color":"2"},
-		{"id":"efdee67515551918","type":"text","text":"iniciar o prcesso de cadastro","x":-100,"y":-220,"width":250,"height":60},
-		{"id":"5ec59703cb5b4d3a","x":177,"y":-120,"width":250,"height":60,"type":"text","text":"Cadastro de informaçoes pessoais"},
+		{"id":"efdee67515551918","type":"text","text":"iniciar o prcesso de cadastro","x":-100,"y":-220,"width":250,"height":60,"color":"4"},
+		{"id":"5ec59703cb5b4d3a","type":"text","text":"Cadastro de informaçoes pessoais","x":177,"y":-120,"width":250,"height":60,"color":"4"},
 		{"id":"d975e7db28c37bf3","type":"text","text":"Nome","x":352,"y":-20,"width":120,"height":60},
 		{"id":"c1419b1f781864a7","type":"text","text":"CPF","x":358,"y":60,"width":96,"height":60},
 		{"id":"243466ba8d921956","type":"text","text":"Endereço","x":358,"y":140,"width":139,"height":60},
 		{"id":"14e9b31c890fec05","type":"text","text":"Telefone","x":358,"y":220,"width":125,"height":60},
-		{"id":"9177cdd2ee2bcc2c","x":514,"y":220,"width":250,"height":60,"type":"text","text":"validação do telefone"},
+		{"id":"9177cdd2ee2bcc2c","type":"text","text":"validação do telefone","x":514,"y":220,"width":250,"height":60},
 		{"id":"9b2237b7655aa541","type":"text","text":"validação de CPF","x":514,"y":60,"width":189,"height":60},
-		{"id":"8bc3c744faecc156","x":538,"y":140,"width":202,"height":60,"type":"text","text":"validação de cep"},
-		{"id":"dff257f236c4bc8f","x":820,"y":-120,"width":250,"height":60,"type":"text","text":"Cadastro clinico"}
+		{"id":"8bc3c744faecc156","type":"text","text":"validação de cep","x":538,"y":140,"width":202,"height":60},
+		{"id":"dff257f236c4bc8f","type":"text","text":"Cadastro clinico","x":882,"y":-120,"width":250,"height":60,"color":"4"},
+		{"id":"98ba79733c71d7e3","type":"text","text":"ja quebrou algum osso ?","x":1007,"y":-20,"width":250,"height":60},
+		{"id":"1ccf57d7b90300c4","type":"text","text":"ja fez alguma cirugia ?","x":1007,"y":60,"width":250,"height":60},
+		{"id":"9fdc8e88b9278b80","type":"text","text":"toma alguma medicação controlada ?","x":1007,"y":212,"width":245,"height":60},
+		{"id":"54a7e53930c8dd4b","x":1007,"y":280,"width":250,"height":60,"type":"text","text":"tipo sangueneo"},
+		{"id":"18e78016aace56ac","type":"text","text":"tem alguma doença cronica ?","x":1007,"y":140,"width":250,"height":60},
+		{"id":"e91233025738c9c9","x":-167,"y":-535,"width":250,"height":60,"type":"text","text":"verificar qual especialista"}
 	],
 	"edges":[
 		{"id":"3f5d77254137fdb1","fromNode":"26b18b4f08a624b2","fromSide":"right","toNode":"5f8931bf87c4d783","toSide":"left"},
@@ -27,6 +33,13 @@
 		{"id":"942331aa1fe31a55","fromNode":"5ec59703cb5b4d3a","fromSide":"bottom","toNode":"243466ba8d921956","toSide":"left"},
 		{"id":"32272ece9c150ec0","fromNode":"5ec59703cb5b4d3a","fromSide":"bottom","toNode":"14e9b31c890fec05","toSide":"left"},
 		{"id":"9bfa4ad3125106cc","fromNode":"14e9b31c890fec05","fromSide":"right","toNode":"9177cdd2ee2bcc2c","toSide":"left"},
-		{"id":"be611219bdf462ae","fromNode":"243466ba8d921956","fromSide":"right","toNode":"8bc3c744faecc156","toSide":"left"}
+		{"id":"be611219bdf462ae","fromNode":"243466ba8d921956","fromSide":"right","toNode":"8bc3c744faecc156","toSide":"left"},
+		{"id":"131ff9b70322e447","fromNode":"5ec59703cb5b4d3a","fromSide":"right","toNode":"dff257f236c4bc8f","toSide":"left"},
+		{"id":"b325b82f71756adf","fromNode":"dff257f236c4bc8f","fromSide":"bottom","toNode":"98ba79733c71d7e3","toSide":"left"},
+		{"id":"6a976e63a0296906","fromNode":"dff257f236c4bc8f","fromSide":"bottom","toNode":"1ccf57d7b90300c4","toSide":"left"},
+		{"id":"7babedeb737b6800","fromNode":"dff257f236c4bc8f","fromSide":"bottom","toNode":"18e78016aace56ac","toSide":"left"},
+		{"id":"2f9a6202ccde8571","fromNode":"dff257f236c4bc8f","fromSide":"bottom","toNode":"9fdc8e88b9278b80","toSide":"left"},
+		{"id":"a155a5b0ede85bfb","fromNode":"dff257f236c4bc8f","fromSide":"top","toNode":"5f8931bf87c4d783","toSide":"right","color":"1"},
+		{"id":"97a1193aefd04206","fromNode":"dff257f236c4bc8f","fromSide":"bottom","toNode":"54a7e53930c8dd4b","toSide":"left"}
 	]
 }
