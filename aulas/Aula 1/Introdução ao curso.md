@@ -32,9 +32,9 @@
 
 - Como um programa funciona
 
-- Fazer nossos próprios programas  
+- ~={green}Fazer nossos próprios programas =~ 
   
-- Um norte para onde seguir!
+- Um norte para onde seguir! 🧭
 ---
 ###### Requisitos para fazer as aulas 
 
@@ -46,17 +46,17 @@
 
 - Sem distrações 🔔
 
-- DETERMINAÇÃO 💪
+- **DETERMINAÇÃO** 💪
 
 ---
 ###### Qual o trabalho de um programador ?
 
 ![[Pasted image 20250326003501.png]]
 
-~={red}[[Processo de marcar consulta medica.canvas|Exemplo de processo]]=
+[[Processo de marcar consulta medica.canvas|Exemplo de processo]]
 
 ---
-O Trabalho de um programador é automatizar processos!
+O Trabalho de um programador é automatizar [[Processos.canvas|Processos]]!
 
 - Processos tem inicio, meio e fim
 
@@ -65,8 +65,6 @@ O Trabalho de um programador é automatizar processos!
 - O meio do processo é o processamento de dados
 
 - O fim do processo é o resultado desse processamento
-
-[[Processos.canvas|Processos]]
 
 ---
 ###### porque automatizar processos ?
