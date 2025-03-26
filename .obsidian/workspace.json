@@ -11,17 +11,14 @@
             "id": "ae2a332bac6b75fa",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "aulas/Aula 1/Processos.canvas",
-                "viewState": {
-                  "x": 210,
-                  "y": 60,
-                  "zoom": -0.2180506622733678
-                }
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Processos"
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ]
@@ -97,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "aulas/Aula 1/Processos.canvas",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Processos"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -116,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "aulas/Aula 1/Processos.canvas",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Processos"
+              "title": "Outgoing links from README"
             }
           },
           {
@@ -145,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "aulas/Aula 1/Processos.canvas",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Processos"
+              "title": "Outline of README"
             }
           }
         ]
@@ -169,14 +166,15 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "ae2a332bac6b75fa",
+  "active": "1b9cfbd433cb113d",
   "lastOpenFiles": [
-    "aulas/Aula 1/Processo de marcar consulta medica.canvas",
     "aulas/Aula 1/Introdução ao curso.md",
     "aulas/Aula 1/Processos.canvas",
+    "aulas/Aula 1/Processo de marcar consulta medica.canvas",
     "Imagens/Pasted image 20250326003501.png",
     "Imagens/Pasted image 20250326001128.png",
     "README.md",
