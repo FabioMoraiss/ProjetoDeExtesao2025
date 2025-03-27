@@ -11,17 +11,14 @@
             "id": "ae2a332bac6b75fa",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "aulas/Aula 1/Processos.canvas",
-                "viewState": {
-                  "x": 786.2196366819949,
-                  "y": 1004.8410368307811,
-                  "zoom": -0.16438681790088283
-                }
+                "file": "aulas/Aula 1/Introdução ao curso.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Processos"
+              "icon": "lucide-file",
+              "title": "Introdução ao curso"
             }
           }
         ]
@@ -184,13 +181,13 @@
   },
   "active": "ae2a332bac6b75fa",
   "lastOpenFiles": [
+    "aulas/Aula 1/Processos.canvas",
     "aulas/Aula 1/Processo de marcar consulta medica.canvas",
     "aulas/Aula 1/Introdução ao curso.md",
     "Indice.md",
     "README.md",
     "Untitled.md",
     "Untitled 1.md",
-    "aulas/Aula 1/Processos.canvas",
     "2025-03-26.md",
     "Imagens/Pasted image 20250326003501.png",
     "Imagens/Pasted image 20250326001128.png",
