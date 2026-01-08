@@ -14,11 +14,11 @@
 
 - Professor do curso: Fábio Morais
 
-- Idade: 22 anos
+- Idade: 23 anos
 
-- Graduação: Cursando Análise e Desenvolvimento de Sistemas ( 5º semestre)
+- Graduação: Cursando Análise e Desenvolvimento de Sistemas ( 3º semestre)
 
-- Experiência: 1 ano de experiência como dev
+- Experiência: 2 ano de experiência como dev
 
 - Objetivo do curso: Dividir conhecimento
 
@@ -53,7 +53,7 @@
 
 ![[Pasted image 20250326003501.png]]
 
-[[Processo de marcar consulta medica.canvas|Exemplo de processo]]
+[[Processo de abrir conta em um banco.canvas|Exemplo de processo]]
 
 ---
 O Trabalho de um programador é automatizar [[Processos.canvas|Processos]]!

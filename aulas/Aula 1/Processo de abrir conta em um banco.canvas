@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"d153ada29e985704","x":-1000,"y":-640,"width":250,"height":60,"type":"text","text":"cliente quer abrir um conta em um banco"},
+		{"id":"cd484fe96a28f627","x":-633,"y":-540,"width":250,"height":60,"type":"text","text":"CPF"},
+		{"id":"dc06727939246dbd","x":-633,"y":-460,"width":250,"height":60,"type":"text","text":"Nome da mãe"},
+		{"id":"e0752880f78bc9b1","x":-633,"y":-380,"width":250,"height":60,"type":"text","text":"Nome do pai"},
+		{"id":"4f4a2e4d9cb5a806","x":-633,"y":-300,"width":250,"height":60,"type":"text","text":"Comprovante de residencia "},
+		{"id":"30e8ae811ebe6023","x":-633,"y":-670,"width":453,"height":490,"type":"text","text":"Cliente passa dados necessarios"}
+	],
+	"edges":[]
+}
