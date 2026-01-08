@@ -15,8 +15,8 @@
               "state": {
                 "file": "aulas/Aula 1/Processo de abrir conta em um banco.canvas",
                 "viewState": {
-                  "x": -406.5,
-                  "y": -425,
+                  "x": 660.5,
+                  "y": -688,
                   "zoom": 0
                 }
               },
@@ -81,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "d8e98c1934e65cd7",
@@ -169,7 +170,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {

@@ -1,11 +1,25 @@
 {
 	"nodes":[
-		{"id":"d153ada29e985704","x":-1000,"y":-640,"width":250,"height":60,"type":"text","text":"cliente quer abrir um conta em um banco"},
-		{"id":"cd484fe96a28f627","x":-633,"y":-540,"width":250,"height":60,"type":"text","text":"CPF"},
-		{"id":"dc06727939246dbd","x":-633,"y":-460,"width":250,"height":60,"type":"text","text":"Nome da mãe"},
-		{"id":"e0752880f78bc9b1","x":-633,"y":-380,"width":250,"height":60,"type":"text","text":"Nome do pai"},
-		{"id":"4f4a2e4d9cb5a806","x":-633,"y":-300,"width":250,"height":60,"type":"text","text":"Comprovante de residencia "},
-		{"id":"30e8ae811ebe6023","x":-633,"y":-670,"width":453,"height":490,"type":"text","text":"Cliente passa dados necessarios"}
+		{"id":"d153ada29e985704","type":"text","text":"cliente quer abrir um conta em um  (itaú)","x":-1000,"y":-640,"width":250,"height":60},
+		{"id":"30e8ae811ebe6023","type":"text","text":"**Cliente passa dados necessarios**","x":-668,"y":-685,"width":453,"height":545,"color":"3"},
+		{"id":"cd484fe96a28f627","type":"text","text":"CPF","x":-640,"y":-580,"width":250,"height":50},
+		{"id":"dc06727939246dbd","type":"text","text":"Nome da mãe","x":-640,"y":-500,"width":250,"height":60},
+		{"id":"a29e29be6dfa7f14","type":"text","text":"Comprovante de renda","x":-640,"y":-240,"width":250,"height":60},
+		{"id":"4f4a2e4d9cb5a806","type":"text","text":"Comprovante de residencia ","x":-640,"y":-340,"width":250,"height":60},
+		{"id":"e0752880f78bc9b1","type":"text","text":"Nome do pai","x":-640,"y":-412,"width":250,"height":60},
+		{"id":"0cec39e81c031c69","type":"text","text":"Computador do Itaú","x":0,"y":-640,"width":250,"height":60},
+		{"id":"5f4743d6d0e5fd16","type":"text","text":"Computador da Receita Federal","x":1000,"y":-980,"width":250,"height":60},
+		{"id":"1ab5a7055fac881e","type":"text","text":"Computador do Serasa","x":1000,"y":-830,"width":250,"height":60},
+		{"id":"9423a5c0712d3353","type":"text","text":"","x":1000,"y":-680,"width":380,"height":220,"color":"5"},
+		{"id":"58f9afdb25d46cf6","type":"text","text":"Computador do Bradesco","x":1020,"y":-640,"width":250,"height":60},
+		{"id":"49809b919bbe1da4","type":"text","text":"Computador do Banco do Brasil","x":1020,"y":-542,"width":250,"height":60},
+		{"id":"aeee57234acec91b","x":500,"y":-980,"width":292,"height":60,"type":"text","text":"Esse CPF está Regular na RF ?"},
+		{"id":"29216aebdabd5a7e","x":407,"y":-814,"width":250,"height":60,"type":"text","text":"Esse CPF está de"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"3f218a25a96fffb6","fromNode":"d153ada29e985704","fromSide":"right","toNode":"30e8ae811ebe6023","toSide":"left"},
+		{"id":"22a616dd1d8c9f23","fromNode":"cd484fe96a28f627","fromSide":"right","toNode":"0cec39e81c031c69","toSide":"left"},
+		{"id":"c3b82861cf2c82c5","fromNode":"aeee57234acec91b","fromSide":"right","toNode":"5f4743d6d0e5fd16","toSide":"left"},
+		{"id":"de68db27166cd7ad","fromNode":"0cec39e81c031c69","fromSide":"right","toNode":"aeee57234acec91b","toSide":"left"}
+	]
 }
