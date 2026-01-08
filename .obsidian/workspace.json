@@ -15,9 +15,9 @@
               "state": {
                 "file": "aulas/Aula 1/Processo de abrir conta em um banco.canvas",
                 "viewState": {
-                  "x": 977.5698052448745,
-                  "y": 364.93257026289115,
-                  "zoom": -0.13714089106348848
+                  "x": 755.813391033545,
+                  "y": -366.76364707262155,
+                  "zoom": -1.1371408910634884
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -81,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "d8e98c1934e65cd7",
@@ -186,6 +187,7 @@
   },
   "active": "ae2a332bac6b75fa",
   "lastOpenFiles": [
+    "Pasted image 20260108182753.png",
     "aulas/Aula 1/Processos.canvas",
     "aulas/Aula 1/Introdução ao curso.md",
     "Untitled 1.md",

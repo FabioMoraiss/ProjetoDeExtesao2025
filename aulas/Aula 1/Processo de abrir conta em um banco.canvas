@@ -15,13 +15,20 @@
 		{"id":"aeee57234acec91b","type":"text","text":"Esse CPF está Regular na RF ?","x":500,"y":-980,"width":292,"height":60,"color":"6"},
 		{"id":"29216aebdabd5a7e","type":"text","text":"Esse CPF está endividado ?","x":521,"y":-830,"width":250,"height":60,"color":"6"},
 		{"id":"5c93d09e7750d687","type":"text","text":"Esse CPF tem histórico de problemas com outros bancos ?","x":426,"y":-613,"width":394,"height":60,"color":"6"},
-		{"id":"5561cfc8657d762c","type":"text","text":"Vai escrever um software(programa) que vai ser responsável por buscar informações no comp","x":396,"y":437,"width":324,"height":183},
 		{"id":"950b424c366fdd98","type":"file","file":"Imagens/Pasted image 20260108182336.png","x":216,"y":400,"width":168,"height":134},
 		{"id":"cd484fe96a28f627","type":"text","text":"CPF","x":-640,"y":-578,"width":250,"height":50},
 		{"id":"3da18c5d7369a58f","type":"text","text":"Decisão: Esse cliente pode abrir uma conta no itáu ?","x":-63,"y":-412,"width":377,"height":54},
 		{"id":"6a0cd07716e2894b","type":"text","text":"não, não pode","x":200,"y":-270,"width":250,"height":60},
 		{"id":"e61680b36a553906","type":"text","text":"sim, pode","x":-180,"y":-270,"width":250,"height":60},
-		{"id":"28ca88f6e9a4a953","type":"text","text":"Como que o computador do itáu e da receita federal se comunicam ?","x":680,"y":200,"width":384,"height":93,"color":"1"}
+		{"id":"28ca88f6e9a4a953","type":"text","text":"Como que o computador do itáu e da receita federal se comunicam ?","x":680,"y":200,"width":384,"height":93,"color":"1"},
+		{"id":"7eba6c49cfca4628","x":1360,"y":377,"width":180,"height":180,"type":"file","file":"Pasted image 20260108182753.png"},
+		{"id":"e3011f9b3cb4d968","x":216,"y":534,"width":168,"height":60,"type":"text","text":"Programador do itaú"},
+		{"id":"2e956968b89fd3fb","x":1360,"y":557,"width":180,"height":60,"type":"text","text":"Programdor da Receita Federal"},
+		{"id":"5561cfc8657d762c","type":"text","text":"Vai escrever um software(programa) que vai ser responsável por buscar informações no computador da Receita federal","x":384,"y":400,"width":300,"height":134},
+		{"id":"f363865c81b3ea94","x":1110,"y":377,"width":250,"height":179,"type":"text","text":"Vai escrever um progrma pra buscar informações do CPFs, e responder perguntas de computadores externos"},
+		{"id":"37eaa76c412f6e82","x":1110,"y":765,"width":250,"height":60,"type":"text","text":"Computador da Receita Federal"},
+		{"id":"aac48bf8e8d4b78f","x":384,"y":765,"width":250,"height":60,"type":"text","text":"Computador do itaú (roda o programa)"},
+		{"id":"6299191ef8eb81b8","x":747,"y":860,"width":250,"height":60,"type":"text","text":"Se comunicam pela internet"}
 	],
 	"edges":[
 		{"id":"3f218a25a96fffb6","fromNode":"d153ada29e985704","fromSide":"right","toNode":"30e8ae811ebe6023","toSide":"left"},
@@ -34,6 +41,10 @@
 		{"id":"2a738ec89c5b9cb1","fromNode":"cd484fe96a28f627","fromSide":"right","toNode":"0cec39e81c031c69","toSide":"left"},
 		{"id":"f3e3b35bf129ad2f","fromNode":"0cec39e81c031c69","fromSide":"bottom","toNode":"3da18c5d7369a58f","toSide":"top"},
 		{"id":"478bd61778caab17","fromNode":"3da18c5d7369a58f","fromSide":"bottom","toNode":"6a0cd07716e2894b","toSide":"top"},
-		{"id":"624b675176f0f320","fromNode":"3da18c5d7369a58f","fromSide":"bottom","toNode":"e61680b36a553906","toSide":"top"}
+		{"id":"624b675176f0f320","fromNode":"3da18c5d7369a58f","fromSide":"bottom","toNode":"e61680b36a553906","toSide":"top"},
+		{"id":"b7fe0ed9d5d3504f","fromNode":"5561cfc8657d762c","fromSide":"bottom","toNode":"aac48bf8e8d4b78f","toSide":"top"},
+		{"id":"04acc291f57d6953","fromNode":"f363865c81b3ea94","fromSide":"bottom","toNode":"37eaa76c412f6e82","toSide":"top"},
+		{"id":"0b83c0bd66c7d7f4","fromNode":"aac48bf8e8d4b78f","fromSide":"right","toNode":"6299191ef8eb81b8","toSide":"left"},
+		{"id":"f492cde4a4642e2f","fromNode":"37eaa76c412f6e82","fromSide":"left","toNode":"6299191ef8eb81b8","toSide":"right"}
 	]
 }
