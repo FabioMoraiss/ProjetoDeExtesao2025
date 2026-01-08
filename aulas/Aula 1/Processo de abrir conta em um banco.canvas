@@ -1,9 +1,7 @@
 {
 	"nodes":[
-		{"id":"5561cfc8657d762c","x":5,"y":140,"width":250,"height":60,"type":"text","text":""},
 		{"id":"d153ada29e985704","type":"text","text":"cliente quer abrir um conta em um  (itaú)","x":-1000,"y":-640,"width":250,"height":60},
 		{"id":"30e8ae811ebe6023","type":"text","text":"**Cliente passa dados necessarios**","x":-668,"y":-685,"width":453,"height":545,"color":"3"},
-		{"id":"cd484fe96a28f627","type":"text","text":"CPF","x":-640,"y":-580,"width":250,"height":50},
 		{"id":"dc06727939246dbd","type":"text","text":"Nome da mãe","x":-640,"y":-500,"width":250,"height":60},
 		{"id":"a29e29be6dfa7f14","type":"text","text":"Comprovante de renda","x":-640,"y":-240,"width":250,"height":60},
 		{"id":"4f4a2e4d9cb5a806","type":"text","text":"Comprovante de residencia ","x":-640,"y":-340,"width":250,"height":60},
@@ -14,19 +12,28 @@
 		{"id":"9423a5c0712d3353","type":"text","text":"","x":1000,"y":-680,"width":380,"height":220,"color":"5"},
 		{"id":"58f9afdb25d46cf6","type":"text","text":"Computador do Bradesco","x":1020,"y":-640,"width":250,"height":60},
 		{"id":"49809b919bbe1da4","type":"text","text":"Computador do Banco do Brasil","x":1020,"y":-542,"width":250,"height":60},
-		{"id":"aeee57234acec91b","x":500,"y":-980,"width":292,"height":60,"color":"6","type":"text","text":"Esse CPF está Regular na RF ?"},
-		{"id":"29216aebdabd5a7e","x":521,"y":-830,"width":250,"height":60,"color":"6","type":"text","text":"Esse CPF está endividado ?"},
-		{"id":"5c93d09e7750d687","x":426,"y":-613,"width":394,"height":60,"color":"6","type":"text","text":"Esse CPF tem histórico de problemas com outros bancos ?"},
-		{"id":"28ca88f6e9a4a953","x":636,"y":-80,"width":384,"height":93,"color":"1","type":"text","text":"Como que o computador do itáu e da receita federal se comunicam ?"}
+		{"id":"aeee57234acec91b","type":"text","text":"Esse CPF está Regular na RF ?","x":500,"y":-980,"width":292,"height":60,"color":"6"},
+		{"id":"29216aebdabd5a7e","type":"text","text":"Esse CPF está endividado ?","x":521,"y":-830,"width":250,"height":60,"color":"6"},
+		{"id":"5c93d09e7750d687","type":"text","text":"Esse CPF tem histórico de problemas com outros bancos ?","x":426,"y":-613,"width":394,"height":60,"color":"6"},
+		{"id":"5561cfc8657d762c","type":"text","text":"Vai escrever um software(programa) que vai ser responsável por buscar informações no comp","x":396,"y":437,"width":324,"height":183},
+		{"id":"950b424c366fdd98","type":"file","file":"Imagens/Pasted image 20260108182336.png","x":216,"y":400,"width":168,"height":134},
+		{"id":"cd484fe96a28f627","type":"text","text":"CPF","x":-640,"y":-578,"width":250,"height":50},
+		{"id":"3da18c5d7369a58f","type":"text","text":"Decisão: Esse cliente pode abrir uma conta no itáu ?","x":-63,"y":-412,"width":377,"height":54},
+		{"id":"6a0cd07716e2894b","type":"text","text":"não, não pode","x":200,"y":-270,"width":250,"height":60},
+		{"id":"e61680b36a553906","type":"text","text":"sim, pode","x":-180,"y":-270,"width":250,"height":60},
+		{"id":"28ca88f6e9a4a953","type":"text","text":"Como que o computador do itáu e da receita federal se comunicam ?","x":680,"y":200,"width":384,"height":93,"color":"1"}
 	],
 	"edges":[
 		{"id":"3f218a25a96fffb6","fromNode":"d153ada29e985704","fromSide":"right","toNode":"30e8ae811ebe6023","toSide":"left"},
-		{"id":"22a616dd1d8c9f23","fromNode":"cd484fe96a28f627","fromSide":"right","toNode":"0cec39e81c031c69","toSide":"left"},
 		{"id":"c3b82861cf2c82c5","fromNode":"aeee57234acec91b","fromSide":"right","toNode":"5f4743d6d0e5fd16","toSide":"left"},
 		{"id":"de68db27166cd7ad","fromNode":"0cec39e81c031c69","fromSide":"right","toNode":"aeee57234acec91b","toSide":"left"},
 		{"id":"8ab5934544e0b503","fromNode":"29216aebdabd5a7e","fromSide":"right","toNode":"1ab5a7055fac881e","toSide":"left"},
 		{"id":"e6106a553b77f5fa","fromNode":"0cec39e81c031c69","fromSide":"right","toNode":"29216aebdabd5a7e","toSide":"left"},
 		{"id":"455f6a72681c4cb6","fromNode":"0cec39e81c031c69","fromSide":"right","toNode":"5c93d09e7750d687","toSide":"left"},
-		{"id":"992ba32d201f0ee2","fromNode":"5c93d09e7750d687","fromSide":"right","toNode":"9423a5c0712d3353","toSide":"left"}
+		{"id":"992ba32d201f0ee2","fromNode":"5c93d09e7750d687","fromSide":"right","toNode":"9423a5c0712d3353","toSide":"left"},
+		{"id":"2a738ec89c5b9cb1","fromNode":"cd484fe96a28f627","fromSide":"right","toNode":"0cec39e81c031c69","toSide":"left"},
+		{"id":"f3e3b35bf129ad2f","fromNode":"0cec39e81c031c69","fromSide":"bottom","toNode":"3da18c5d7369a58f","toSide":"top"},
+		{"id":"478bd61778caab17","fromNode":"3da18c5d7369a58f","fromSide":"bottom","toNode":"6a0cd07716e2894b","toSide":"top"},
+		{"id":"624b675176f0f320","fromNode":"3da18c5d7369a58f","fromSide":"bottom","toNode":"e61680b36a553906","toSide":"top"}
 	]
 }
